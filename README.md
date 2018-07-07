@@ -46,3 +46,5 @@ Tapping or sliding the bottom drawer upwards provides the additional options:
    - A blank text box to allow the user to write any notes they want about the selected marker.
 9. Button: Camera
    - Opens up the users phone storage, where they can select 1 or more images to link to the selected marker (these images are not copied, only linked).
+10. Images
+    - Selecting any image will bring up the full screen of the image with the abiltiy to swipe left or right to move through all images
