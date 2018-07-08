@@ -7,8 +7,8 @@ https://www.loopwiki.com/application/create-gallery-android-application/
 https://codingmountain.com/google-map-android-application-ui-clone-using-bottomsheet-layout/
 ## API Level
 This code works on Android, with API >= 19. 
-## API Keys
-You will need API keys for the following services: 
+## API Keys: Stored in string.xml
+You will need API keys for the following services:
 - Places API
 - Maps SDK for Android
 - Places SDK for Android
